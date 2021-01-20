@@ -1,2 +1,0 @@
-attackD.png
-attackA.png

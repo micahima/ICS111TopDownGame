@@ -1,5 +1,0 @@
-potion.png 150 480
-potion.png 360 280
-potion.png 750 180
-potion.png 512 385
-potion.png 700 500

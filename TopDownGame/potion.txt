@@ -1,0 +1,5 @@
+resources/potion.png 150 480
+resources/potion.png 360 280
+resources/potion.png 750 180
+resources/potion.png 512 385
+resources/potion.png 700 500

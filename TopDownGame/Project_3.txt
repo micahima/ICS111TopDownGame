@@ -1,0 +1,14 @@
+resources/heroB.png resources/attackB.png
+resources/heroR.png resources/attackR.png
+resources/arrow_left.png 550 400
+resources/arrow_right.png 950 400
+resources/healthA.png
+resources/healthB.png
+resources/healthC.png
+resources/healthD.png
+resources/healthE.png
+resources/healthF.png
+resources/healthG.png
+resources/healthH.png
+resources/healthI.png
+resources/healthJ.png
